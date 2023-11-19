@@ -41,4 +41,39 @@ Obrigado!
 > 'lu-scallop' foi o nome do meu char no Dragon Age Inquisition, um dos melhores RPG's que joguei em 2016, por isso decidi colocar como meu nome de usuário no GitHub.
 
 
+**-----------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
+
+# A bit about me...
+Hello, welcome to my projects space!
+
+My name is Lucas, and I have one year of experience in programming. I am studying software development and applying what I learn in practice by creating personal projects. I am currently pursuing a degree in Systems Analysis and Development in the online modality at SENAC. It was in college where I had my first contact with the C# language, and I chose to specialize in this language and related technologies.
+
+Today, I align my college studies with other courses and platforms that offer programming education, such as DIO (Digital Innovation One), freeCodeCamp, CodeWars, and free Microsoft training. Additionally, I strive to be a self-taught learner, challenging myself to learn from the official documentation of the technology I study and through forums on the internet. I believe that learning to implement functionalities in code is challenging but very rewarding when you succeed!
+
+# Why C#?
+As I mentioned, my first contact with C# came through college. Before that, I was learning about Python and Web Technologies (HTML, CSS, and JavaScript). However, being new to this world of code and with the multitude of programming languages available, I was a bit indecisive about which language to start with, where to focus, and what I really wanted to do with programming.
+
+With these questions in mind, I started with C# and immediately fell in love with the possibilities that this language offers, or better yet, the entire range of possibilities in the .NET environment. One of the technologies that caught my attention was ASP.NET, which allows developers to create web applications, something crucial in this era of digitization. This interest probably arose from my prior contact with Web Technologies before learning about C# (which I continue to learn).
+
+Furthermore, before taking a step forward, I want to reinforce the fundamentals and also study other types of systems and programs that allow me to improve my personal projects, such as MySQL, where I have been integrating databases into these projects.
+
+# My Vision and Motivation
+I want to feel the satisfaction of other people being able to use my programs to solve a problem or use my programs in everyday life as one of those conveniences nowadays. That's why I don't like to create projects just to be 'just another' and occupy space in the repository, but something meaningful and useful, even if it's a simple program or doesn't have many features, but with clean code and useful for a user or even other developers who can improve this project, either in the code or in the interface, and that would be even more rewarding for me!
+
+# Contact Information
+Well, if you've made it this far, I want to thank you for reading my description! If you wish, send me a message at lucasviro023@gmail.com and/or visit my Linkedin: www.linkedin.com/in/lucas-vieira-rocha.
+
+Thank you!
+
+>[!NOTE]
+>'lu-scallop' was the name of my character in Dragon Age Inquisition, one of the best RPGs I played in 2016, so I decided to use it as my username on GitHub.
+
+
+
+
+
+
+
+
 
