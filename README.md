@@ -10,19 +10,6 @@ Hoje, alinho meus estudos da faculdade a outros cursos e plataformas que oferece
 treinamentos gratuitos da Microsoft. Além disso, também busco ser um estudante autodidata, me desafiando a aprender pela documentação oficial da tecnologia que estudo e por 
 fórums na internet. Creio que aprender a implementar funcionalidades no código por si só é desafiador, mas bem gratificante quando você consegue!
 
-# Por que C#?
-
-Como eu havia dito, meu primeiro contato com C# veio pela faculdade. Antes disso, eu estava aprendendo sobre Python e Tecnologias Web (HTML, CSS e JavaScript), mas
-sendo novo nesse mundo de códigos e pela quantidade de linguagens de programação disponíveis, fiquei um pouco indeciso sobre qual seria a melhor linguagem para começar,
-onde eu deveria focar, o que eu realmente gostaria de fazer com programação. 
-
-Com essas perguntas iniciei com C# e, imediatamente me apaixonei pelas possibilidades que essa linguagem oferece, ou melhor, o que toda a gama de possibilidades o ambiente 
-.NET... E uma das tecnologias que mais me chamou atenção foi o ASP.NET, que dá a possibilidade do desenvolvedor criar aplicativos web, algo tão fundamental nessa era da 
-digitalização. Provavelmente esse meu interesse despertou pelo meu contato com as Tecnologias Web que tive primeiro antes de aprender sobre C# (no caso, continuo aprendendo).
-
-No mais, antes de dar um passo adiante quero reforçar os fundamentos e também estudar outros tipos de sistemas e programas que permitem melhorar os meus projetos pessoais, como
-MySQL, onde venho integrando Banco de Dados a esses meus projetos. 
-
 # Minha Visão e Motivação
 
 Quero sentir a satisfação de outras pessoas poderem utilizar meus programas para resolver algum problema, ou ainda, utilizar meus programas no cotidiano como uma dessas 
