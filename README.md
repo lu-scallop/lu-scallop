@@ -1,8 +1,6 @@
 # About Lucas
 
-I am a software developer with a lot of code to do!
-
-I focus on .NET technologies and general backend development. 
+I am a software developer with focus on .NET technologies and general backend development. 
 
 Currently I am working on personal projects to show what I can do and enhance my development experience.
 
