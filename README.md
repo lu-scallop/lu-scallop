@@ -1,6 +1,8 @@
 # About Lucas
 
-I am a software developer with focus on .NET technologies and general backend development. 
+Hello!
+
+I am working on personal DataScience projects. 
 
 Currently I am working on personal projects to show what I can do and enhance my development experience.
 
